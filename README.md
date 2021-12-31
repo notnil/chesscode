@@ -13,3 +13,6 @@ Valid Charset (space at end):
 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ. 
 ```
 
+## Demo
+
+![ChessCode Demo](docs/vid/demo.mp4)
