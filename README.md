@@ -14,8 +14,7 @@ Chesscode is a way of encoding messages using a chess board and the starting set
 
 The web encoder / decoder is hosted with Github Pages using the static assets in the /docs directory.  Notably this library is converted to WebAssembly using [Go's compiler support](https://github.com/golang/go/wiki/WebAssembly) and includes the [notnil/chess](https://github.com/notnil/chess) package.
 
-
-https://notnil.github.io/chesscode/
+Live Demo: https://notnil.github.io/chesscode/
 
 ## Methodology
 
